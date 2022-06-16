@@ -167,6 +167,8 @@ void loop()
 
 ### TABLE -02 OUTPUT VOLTAGES AND CHANGE IN RESISTANCES
 
+![image](https://user-images.githubusercontent.com/94165326/174070618-b0428db3-415c-41cc-a591-def5377eb1e4.png)
+
 
 
 
